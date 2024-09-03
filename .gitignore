@@ -1,0 +1,6 @@
+link.txt
+standalone/*
+**/.vscode
+**/bin
+**/obj
+**/*.user
