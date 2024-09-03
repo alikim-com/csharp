@@ -26,11 +26,11 @@ The engine mostly consists of `Game` and `TurnWheel` classes, where `AI` control
 - AI-generated images
 
 ## How to play
-> Download [the stand-alone win-x64 version](https://raw.githubusercontent.com/alikim-com/tafe/main/programming/WinForms_Tic_Tac_Toe/WinForms_Tic_Tac_Toe_standalone.zip)
+> Download [the stand-alone win-x64 version](https://raw.githubusercontent.com/alikim-com/csharp/main/WinForms_Tic_Tac_Toe/WinForms_Tic_Tac_Toe_standalone.zip)
 
-> Download files from [the repository](https://github.com/alikim-com/tafe/tree/main/programming/WinForms_Tic_Tac_Toe) and compile your own executable.
+> Download files from [the repository](https://github.com/alikim-com/csharp/tree/main/WinForms_Tic_Tac_Toe) and compile your own executable.
 
-> Third-party [folder download link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Falikim-com%2Ftafe%2Ftree%2Fmain%2Fprogramming%2FWinForms_Tic_Tac_Toe) (use with caution)
+> Third-party [folder download link](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Falikim-com%2Fcsharp%2Ftree%2Fmain%2FWinForms_Tic_Tac_Toe) (use with caution)
 
 ### How to save a game: 
 Enter a desired game name into the "Game name" field and then use the "Save as..." menu option to save the game. The name should be unique, i.e., not present on the "Saved games" menu list.<br/>Saving and loading games is disabled during the countdown.
